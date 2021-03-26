@@ -7,6 +7,6 @@
 
 # Dados sobre o projeto
 
-- Para que liste os usuários, a aplicação execute com todos os dados e as chamadar a API é necessario rodar o comando npm server (Configurado nesse projeto para executar o script do json-server).
+- O comando "npm server" nesse projeto foi confugurado para executar o script do "json-server".
 - Ações de criar e remover (Mudar seu status para inativo) usuário está funcional.
 - Filtrar por status e barra de pesquisa está funcional.
