@@ -10,19 +10,6 @@ function parse(path, params) {
     (value, key) => (path = _.replace(path, "{" + key + "}", value))
   );
 
-  let queryParams = {};
-
-  _.forEach(params, (value, key) => {
-    if (key[0] === "@") {
-      const queryParamKey = _.replace(key, "@", "");
-      queryParams[queryParamKey] = value;
-    }
-  });
-
-  if (!_.isEmpty(queryParams)) {
-    path += "?" + queryString.stringify(queryParams);
-  }
-
   return path;
 }
 
