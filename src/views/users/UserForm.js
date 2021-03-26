@@ -444,7 +444,7 @@ const Profile = (props) => {
                       width: 80,
                       borderColor: "lightGray",
                     }}
-                    onClick={() => props.history("/users")}
+                    onClick={() => props.history.push("/users")}
                   >
                     Cancel
                   </CButton>
