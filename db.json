@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "john_doe",
+      "profile": "john_doe",
+      "phoneNumber": "",
+      "mobileNumber": "",
+      "expireDate": "",
+      "status": "Inactive",
+      "company": ""
+    },
+    {
+      "name": "Wilson Marcielo",
+      "username": "Wilson",
+      "profile": "Owner",
+      "phoneNumber": "(111) 111-1111",
+      "mobileNumber": "(212) 121-2121",
+      "expireDate": "",
+      "status": "Inactive",
+      "company": "Company 1",
+      "id": 3
+    },
+    {
+      "name": "AAAAA AAAA",
+      "username": "AAAAA",
+      "profile": "Owner",
+      "phoneNumber": "(111) 111-1111",
+      "mobileNumber": "(193) 891-8391",
+      "expireDate": "2020-12-20",
+      "status": "Active",
+      "company": "Company 1",
+      "id": 4
+    },
+    {
+      "name": "BBBB AAAA",
+      "username": "bbbbb",
+      "profile": "Owner",
+      "phoneNumber": "(111) 111-1111",
+      "mobileNumber": "(193) 891-8391",
+      "expireDate": "2020-12-20",
+      "status": "Active",
+      "company": "Company 1",
+      "id": 5
+    },
+    {
+      "name": "ABCD ABCD",
+      "username": "aaaaaa",
+      "profile": "Owner",
+      "phoneNumber": "(111) 111-1111",
+      "mobileNumber": "(193) 891-8391",
+      "expireDate": "2020-12-20",
+      "status": "Active",
+      "company": "Company 1",
+      "id": 5
+    }
+  ]
+}
